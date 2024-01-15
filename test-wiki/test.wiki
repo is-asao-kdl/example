@@ -1,0 +1,9 @@
+<h1>Hello World!</h1>
+
+<p>This is a simple HTML example in a GitHub Wiki page.</p>
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
